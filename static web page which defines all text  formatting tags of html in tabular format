@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+        <table border="1">
+            <tr>
+                <th>HTML TAG</th>
+                <th>output</th>
+            </tr>
+            <tr>
+                <td>normal text</td>
+                <td>hello world</td>
+            </tr>
+            <tr>
+                <td> Fonts & its attributes</td>
+                <td><FONT SIZE="+2"color="#rrggbb">hello world </FONT></td>
+            </tr>
+            <tr>
+                <td>&lt;B&gt;</td>
+                <td><B>bold</B></td>
+            </tr>
+            <tr>
+                <td>&lt;I&gt;</td>
+                <td><I>Italic</I></td>
+            </tr>
+            <tr>
+                <td>&lt;U&gt;</td>
+                <td><U>Underline</U></td>
+            </tr>
+            <tr>
+                <td>&lt;EM&gt;</td>
+                <td><EM>Emphasis</EM></td>
+            </tr>
+            <tr>
+                <td>&lt;STRONG&gt;</td>
+                <td><strong>strong</strong></td>
+            </tr>
+            <tr>
+                <td>&lt;strike&gt;</td>
+                <td><strike>strike through text</strike></td>
+            </tr>
+            <tr>
+                <td>&lt;small&gt;</td>
+                <td><small>text in a small font</small></td>
+            </tr>
+            <tr>
+                <td>&lt;sub&gt;</td>
+                <td>a<sub>b</sub></td>
+            </tr>
+            <tr>
+                <td>&lt;sup&gt;</td>
+                <td>a<sup>b</sup></td>
+            </tr>
+
+        </table>
+    </center>
+    
+</body>
+</html>
