@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEB DEVELOPMENT</title>
+</head>
+<body>
+    <details>
+        <SUmmary>LANGUAGES FOR WEB DEVELOPMENT</SUmmary>
+        <P>HTML</P>
+        <P>CSS</P>
+        <P>JAVASCRIPT</P>
+        <P>PHP</P>
+        <P>RUBY</P>
+        <P>SWIFT</P>
+    </details>
+
+</body>
+</html>
